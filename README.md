@@ -11,7 +11,7 @@ Proyecto para poner en práctica el trabajo colaborativo en GitHub
 - [x] PR rechazado y corregido
 - [x] Conflicto resuelto
 - [x] Release publicada
-- [ ] Milestones creados (avanzado)
-- [ ] GitHub Actions funcionando (avanzado PRO)
+- [x] Milestones creados (avanzado)
+- [x] GitHub Actions funcionando (avanzado PRO)
 i️ La documentación completa está en la Wiki:
-👉 [Entrega del laboratorio en la Wiki](<URL>)
+👉 [Entrega del laboratorio en la Wiki](<https://github.com/ESPLAI-Dia19/Lab-Colaborativo-1-ESPLAI/wiki/Entrega-del-laboratorio>)
