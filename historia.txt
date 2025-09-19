@@ -1,0 +1,5 @@
+Este es el documento para historiador como yo
+
+esta sería la sgeunda linea pero no la última
+
+y esta sería la linea final del archivo
